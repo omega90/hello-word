@@ -1,30 +1,34 @@
 <!DOCTYPE html>
 <html>
- <head>
-  <title>Daten aus einer Datei auf mehreren Seiten aufteilen</title>
+<head>
+<title>Daten aus einer Datei auf mehreren Seiten aufteilen</title>
 
-  <style>
-  body {
-   font-family: Verdana, Sans-Serif;
-   background-color: Oldlace;
-  }
-  a:link, a:visited {
-   text-decoration: None;
-   color: #FF0000;
-  }
-  </style>
+<style>
+body {
+	font-family: Verdana, Sans-Serif;
+	background-color: Oldlace;
+}
 
- </head>
+a:link, a:visited {
+	text-decoration: None;
+	color: #FF0000;
+}
+</style>
+
+</head>
 <body>
-<?php echo 'das ist ein tes '.' <br><strong> yes you can </strong>';
+<?php
+
+echo 'das ist ein tes ' . ' <br><strong> yes you can </strong>';
+echo 'zrzusgiud';
 
 
 ?>
 
 <br>
-<h1>dfoijdfoijf</h1>
+	<h1>dfoijdfoijf</h1>
 
-ipoijerojoier soihduhew wuihe98we wuihe9whe98we
-sdpods09sid bsidhg87sd sd7g87ds
+	ipoijerojoier soihduhew wuihe98we wuihe9whe98we sdpods09sid bsidhg87sd
+	sd7g87ds lksdjlsd slkdlksdjd lkdslkdsl lksdlkds lksdlsd lksdlksd
 </body>
 </html>
